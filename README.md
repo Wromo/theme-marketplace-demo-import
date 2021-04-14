@@ -1,4 +1,4 @@
-=== Wromo Marketplace Demo Import ===
+<p>=== Wromo Marketplace Demo Import ===</p>
 Contributors: Wromo Marketplace
 Requires at least: 4.0.0
 Tested up to: 5.3.2
@@ -41,7 +41,7 @@ Use Wromo Marketplace Demo importer plugins to import theme demo data with just 
 
 	Wromo Marketplace Demo Import bundles the following third-party resources:
 
-	One Click Demo Import 3.0.2, Copyright 2021
+	One Click Demo Import v3.0.2, Copyright 2021
 	License: GPLv3 or later
 	Source: https://github.com/Wromo/theme-marketplace-demo-import
 
